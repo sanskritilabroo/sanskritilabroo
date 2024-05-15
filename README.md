@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Sanskriti!
 <!--
 **sanskritilabroo/sanskritilabroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,arduino,javascript,ros,tensorflow,opencv,cpp,git" />
+  </a>
+</p>
+
+### ⚡Interested in Machine Learning, WebDev, Open Source and Robotics. 
+![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskritilabroo&show_icons=true&theme=radical)
